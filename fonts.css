@@ -1,11 +1,7 @@
 /* 定义 Regular 字体 */
 @font-face {
     font-family: 'LXGW WenKai TC';
-    src: url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Light.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Medium.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Regular.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Light.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Medium.ttf') format('truetype'),
+    src: url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Regular.ttf') format('truetype'),
          url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -14,11 +10,7 @@
 /* 定义 Bold 字体 */
 @font-face {
     font-family: 'LXGW WenKai TC';
-    src: url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Light.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Medium.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Regular.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Light.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Medium.ttf') format('truetype'),
+    src: url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Regular.ttf') format('truetype'),
          url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Regular.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
