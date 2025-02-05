@@ -10,8 +10,8 @@
 /* 定义 Bold 字体 */
 @font-face {
     font-family: 'LXGW WenKai TC';
-    src: url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Regular.ttf') format('truetype'),
-         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Regular.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiMonoTC-Medium.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Medium.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
