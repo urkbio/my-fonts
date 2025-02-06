@@ -1,5 +1,5 @@
 /* 定义 Regular 字体 */
 @font-face {
     font-family: 'LXGW WenKai TC';
-    src: url('https://raw.githubusercontent.com/urkbio/my-fonts/main/fonts/LXGWWenKaiTC-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/urkbio/my-fonts@latest/fonts/LXGWWenKaiTC-Regular.woff2') format('woff2');
 }
